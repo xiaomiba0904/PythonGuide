@@ -6,6 +6,7 @@
 [Python官网](https://www.python.org/)
 
 ~~当选择Python解释器的时候，一个首先要面对的问题是：“我应该选择Python 2还是Python 3？” 答案并不像人们想象的那么明显。~~
+
 2022年了无脑选Python3
 
 
@@ -98,6 +99,6 @@ pyenv deactivate
 #### IDE
 
 [PyCharm](http://www.jetbrains.com/pycharm/) 由JetBrains公司开发，此公司还以 IntelliJ IDEA闻名。它们都共享着相同的基础代码，PyCharm中大多数特性能通过免费的 Python 插件 带入到IntelliJ中。PyCharm由两个版本：专业版（Professional Edition）（30天试用）和 拥有相对少特性的社区版（Community Edition）（Apache 2.0 License）。
-*以Python为主语言开发者的推荐使用PyCharm*
+***以Python为主语言开发者的推荐使用PyCharm***
 
 [Visual Studio Code](https://code.visualstudio.com/) 是一个免费的、轻量的、开源的IDE，支持Mac、Windows和Linux。它以诸如Node.js和Python等 开源技术构建，具有如Intellisense（自动补全）、本地和远程调试、linting（代码检查）等 引人注目的特性。MIT 许可证。
